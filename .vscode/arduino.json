@@ -1,0 +1,5 @@
+{
+    "sketch": "ScreenControl.ino",
+    "board": "arduino:avr:megaADK",
+    "output": "build"
+}
